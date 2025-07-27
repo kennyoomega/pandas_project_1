@@ -18,7 +18,7 @@ This is my first practice project using Pandas in Jupyter Notebook. It covers ba
 ## How to Use
 
 1. Clone this repository to your local machine.  
-2. Open the `pandas_exercise_1.ipynb` file with Jupyter Notebook.  
+2. Open the `pandas_exercise.ipynb` file with Jupyter Notebook.  
 3. Run the notebook cells step-by-step to see the practice results.
 
 ---
