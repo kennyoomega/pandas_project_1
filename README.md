@@ -1,4 +1,4 @@
-# Pandas Practice 1
+# Pandas Project 1
 
 This is my first practice project using Pandas in Jupyter Notebook. It covers basic data operations such as reading, cleaning, filtering, and summarizing data.
 
